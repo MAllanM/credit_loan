@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Large raw data files kept locally for analysis, not committed to the demo repo.
+*.csv
+return_table.csv
+return_test.csv
